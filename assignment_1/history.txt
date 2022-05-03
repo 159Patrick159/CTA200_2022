@@ -1,0 +1,283 @@
+    1  ls
+    2  ls -ai
+    3  whoami
+    4  w
+    5  who
+    6  w
+    7  pwd
+    8  /home-2
+    9  /
+   10  ls
+   11  cd/home-2
+   12  ls
+   13  \Desktop
+   14  cd \Desktop
+   15  ls
+   16  cd
+   17  ls
+   18  pwd
+   19  pw
+   20  pwd
+   21  cd
+   22  pwd
+   23  ls
+   24  pwd
+   25  cd pwd
+   26  pwd
+   27  cd
+   28  ls
+   29  pwd
+   30  ls -l
+   31  ls -la
+   32  who
+   33  ls -ld
+   34  ls -la
+   35  pwd
+   36  cd fs
+   37  lustre
+   38  fs lustre
+   39  cd lustre
+   40  ls
+   41  cd ~murray
+   42  cd papers
+   43  cd Paper
+   44  ls
+   45  cd Papers
+   46  ls
+   47  cd Hopkins
+   48  ls
+   49  cd All_Feedback
+   50  ls
+   51  cd second_draft
+   52  ls
+   53  open highz_18_hr_s016_pane.pdf
+   54  ls -la
+   55  evince sfh_vs_fbmodel.pdf 
+   56* 
+   57  ls
+   58  ls | morph 
+   59  ls | grep morph
+   60  cd
+   61  cd ~murray
+   62  ls
+   63  ls ls | grep Hello
+   64  ls | grep Hello
+   65  pwd
+   66  ls | grep Mag
+   67  ls | grep Hello
+   68  grep Hello
+   69  ls -la
+   70  cd
+   71  ls
+   72  mkdir CTA200_2022
+   73  cd CTA200_2022
+   74  ls -la
+   75  ls
+   76  pwd
+   77  which to vim
+   78  which to vin
+   79  which to vi
+   80  which to vim
+   81  ls
+   82  ls -la
+   83  which to vi
+   84  wim to dir
+   85  wi to dir
+   86  vi to dir
+   87  ls
+   88  pwd
+   89  ls -;a
+   90  ls -la
+   91  vim to list_dir
+   92  ls
+   93  ls -la
+   94  vim to list_dir
+   95  ls
+   96  rm to
+   97  ls
+   98  cd
+   99  pwd
+  100  cd ~murray
+  101  find . -name "Hello" -print
+  102  find . -name "*Hello_world*" -print
+  103  find . -name "Hello_world.py" -print
+  104  find . -name "Hello_world.py"
+  105  python 3 --version
+  106  module avail
+  107  python/3.10.2
+  108  cd
+  109  python/3.10.2
+  110  module load gcc
+  111  gcc --version
+  112  module load pyhton
+  113  module load python
+  114  module list
+  115  python
+  116  gcc
+  117  moldule load gcc
+  118  module load gcc
+  119  module list
+  120  cd ~fhorrobin/
+  121  cir *.c
+  122  dir *.c
+  123  main.c
+  124  open main.c
+  125  pwd
+  126  m *.c
+  127  more  *.c
+  128  gcc main.c
+  129  ls -la *.c
+  130  cp main.c ~
+  131  pushd ~
+  132  ls -la *.c
+  133  pwd
+  134  more main.c
+  135  gcc main.c
+  136  ls
+  137  a.out
+  138  ./a.out
+  139  cd murray
+  140  cd
+  141  cd ~murray/
+  142  dir *.c
+  143  find -name "*Hello*"
+  144  cd ~fhorrobin/
+  145  ls *.py
+  146  more main.py
+  147  main.py
+  148  python main.py
+  149  cd ~murray
+  150  find -name "*Hello*"
+  151  cd tmp
+  152  ls
+  153  cp Hello.py ~
+  154  cp Hello_world.py ~
+  155  cd ~murray
+  156  cd Papers/tmp
+  157  ls
+  158  cp Hello_world.c ~
+  159  cd
+  160  ls
+  161  cd/mnt
+  162  cd /mnt
+  163  ls -la
+  164  cd /fs/lustre/scratch
+  165  pwd
+  166  cd
+  167  cd mnt
+  168  cd /mnt
+  169  ls
+  170  cs /scratch-lustre
+  171  who
+  172  w
+  173  ls
+  174  cd /scratch-lustre
+  175  cd scratch-lustre
+  176  ls
+  177  cd student09
+  178  pwd
+  179  mkdir CTA200-2022
+  180  ls
+  181  cd CTA200-2022
+  182  pwd
+  183  mkdir assignment_1
+  184  ls
+  185  vim README.md
+  186  ls
+  187  cd
+  188  ls
+  189  rm CTA200_2022
+  190  rmdir CTA200_2022
+  191  ls
+  192  pwd
+  193  cp Hello_world.py /mnt/scratch-lustre/student09/assignment1
+  194  cp Hello_world.c /mnt/scratch-lustre/student09/assignment1
+  195  pushd /mnt/scratch-lustre/student09
+  196  ls -la
+  197  rm assignment1 
+  198  mkdir assignment1
+  199  pushd
+  200  pwd
+  201  ls
+  202  cp Hello_world.c /mnt/scratch-lustre/student09/assignment1/
+  203  cp Hello_world.py /mnt/scratch-lustre/student09/assignment1/
+  204  pushd
+  205  ls -la
+  206  ls -la assignment1/
+  207  ls -la CTA200-2022/
+  208  cd assignment1/
+  209  pwd
+  210  cd ..
+  211  pwd
+  212  cd CTA200-2022/
+  213  cd assignment_1/
+  214  ls - la
+  215  ls -la
+  216  cp ../../assignment1/Hello_world* .
+  217  ls
+  218  pwd
+  219  cd ..
+  220  pwd
+  221  cd ..
+  222  pwd
+  223  ls
+  224  ls -la
+  225  rmdir assignment1/
+  226  pwd
+  227  ls
+  228  ls -la
+  229  cd assignment1/
+  230  rm*
+  231  rm *
+  232  cd ..
+  233  pwd
+  234  ls -la
+  235  cd assignment1/
+  236  ls
+  237  cd ..
+  238  rmdir assignment1/
+  239  ls
+  240  pwd
+  241  ls
+  242  cd CTA200-2022/
+  243  cd
+  244  cd mnt
+  245  cd /mnt
+  246  pwd
+  247  ls
+  248  cd scratch-lustre/student09
+  249  cd CTA200-2022/
+  250  ls -la
+  251  cd assignment_1/
+  252  ls
+  253  mv Hello_world.c Hello_world_sandoval.c
+  254  ls
+  255  mv Hello_world.py Hello_world_sandoval.py
+  256  ls
+  257  more Hello_world_sandoval.c
+  258  gcc Hello_world.c
+  259  gcc Hello_world_sandoval.c
+  260  ls
+  261  a.out
+  262  ls
+  263  ./a.out
+  264  mv a.out Hellow_world.out
+  265  ls
+  266  ./Hellow_world.out
+  267  ls
+  268  vi Hello_world_sandoval.py
+  269  ./Hellow_world.py
+  270  python Hello_world_sandoval.py
+  271  vim Hello_world_sandoval.c
+  272  gcc Hello_world_sandoval.c
+  273  ls
+  274  vm a.out Hellow_world.out
+  275  mv a.out Hellow_world.out
+  276  ls
+  277  ./Hellow_world.out
+  278  python Hello_world_sandoval.py
+  279  python Hello_world_sandoval.py > output.txt
+  280  ls
+  281  more output.txt
+  282  history
+  283  history > history.txt
